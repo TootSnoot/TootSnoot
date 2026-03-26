@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TootSnoot!
-- 👀 I’m interested in art, video games and animals. Current favourite video game is Hi-Fi Rush.
-- 🌱 I’m currently studying Game Development and Learning Technology at University of Southern Denmark (SDU).
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in art, video games and animals.
+- 🌱 Currently studying Game Development and Learning Technology at University of Southern Denmark (SDU).
 
 <!---
 TootSnoot/TootSnoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
